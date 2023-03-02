@@ -1,3 +1,5 @@
 /login-lecture/node_modules
-/node_modules
+login-lecture\node_modules
 
+/node_modules
+node_modules
